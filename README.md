@@ -18,8 +18,6 @@
   
   ## Интерфейс проекта
    ![alt text](https://cloud.githubusercontent.com/assets/29196496/26797336/415baf1e-4a35-11e7-8a05-6fbce0bf3b71.png)
-   ![alt text](https://cloud.githubusercontent.com/assets/29196496/26785336/8185acb4-4a0a-11e7-8518-b8b5b1fc0a52.png)
-   ![alt text](https://cloud.githubusercontent.com/assets/29196496/26785422/e9f6e31c-4a0a-11e7-8dd5-514ff718a3da.png)
    ![alt text](https://cloud.githubusercontent.com/assets/29196496/26785493/5b661ad6-4a0b-11e7-8b3b-0e07b055d32e.png)
    ![alt text](https://cloud.githubusercontent.com/assets/29196496/26797496/b970abd0-4a35-11e7-8e69-90e28095ebf9.png)
    ![alt text](https://cloud.githubusercontent.com/assets/29196496/26796798/6a8afefa-4a33-11e7-9cba-41bc20fb1b2c.png)

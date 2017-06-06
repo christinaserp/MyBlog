@@ -1,0 +1,21 @@
+{% extends 'blog/base.html' %}
+
+{% block title %}
+Новая статья
+{% endblock %}
+
+{% block content %}
+
+    <h2 style="margin-bottom: 30px">Новая статья</h2>
+
+    {{ form.media }}
+    <form action="" method="POST">
+        {% csrf_token  %}
+        {{ form.as_p }}
+        <input class="btn-default" id="save_article" type="submit" value="Сохранить" />
+    </form>
+
+{% endblock %}
+
+
+
